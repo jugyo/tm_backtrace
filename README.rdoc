@@ -1,6 +1,6 @@
 = tm_backtrace
 
-This provides you the backtrace for TextMate
+This provides you the backtrace for TextMate.
 
 == Install
 
@@ -9,6 +9,10 @@ This provides you the backtrace for TextMate
 == Usage
 
   require 'tm_backtrace'
+
+== Tips
+
+iTerm can launch URL with Cmd-click.
 
 == Copyright
 
