@@ -16,7 +16,7 @@ Usage
 Screenshot
 ----
 
-![screenshot.png](mt_backtrace/raw/master/screenshot.png)
+![screenshot.png](tm_backtrace/raw/master/screenshot.png)
 
 Tips
 ----
