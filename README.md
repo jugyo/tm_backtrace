@@ -1,19 +1,29 @@
-= tm_backtrace
+tm_backtrace
+====
 
 This provides you the backtrace for TextMate.
 
-== Install
+Install
+----
 
   gem install tm_backtrace
 
-== Usage
+Usage
+----
 
   require 'tm_backtrace'
 
-== Tips
+Screenshot
+----
+
+![screenshot.png](mt_backtrace/raw/master/screenshot.png)
+
+Tips
+----
 
 iTerm can launch URL with Cmd-click.
 
-== Copyright
+Copyright
+----
 
 Copyright (c) 2010 jugyo. See LICENSE for details.
