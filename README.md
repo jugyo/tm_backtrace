@@ -16,7 +16,7 @@ Usage
 Screenshot
 ----
 
-![screenshot.png](tm_backtrace/raw/4d20355a507adacf838a08ac200474ef931bf141/screenshot.png)
+![screenshot.png](https://github.com/jugyo/tm_backtrace/raw/4d20355a507adacf838a08ac200474ef931bf141/screenshot.png)
 
 Tips
 ----
